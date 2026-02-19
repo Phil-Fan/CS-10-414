@@ -70,6 +70,9 @@ This project is based on the following resources:
 - **Official Course Website**: [https://dlsyscourse.org](https://dlsyscourse.org)
 - **Course Notes**: [https://www.zhouxin.space/notes/notes-on-cmu-10-414-assignments/](https://www.zhouxin.space/notes/notes-on-cmu-10-414-assignments/)
 - **Tutorial**: [https://zhuanlan.zhihu.com/p/702330412](https://zhuanlan.zhihu.com/p/702330412)
+- **Solutions**:
+  - [Crazy-Ryan/CMU-10-714](https://github.com/Crazy-Ryan/CMU-10-714)
+  - [PKUFlyingPig/CMU10-714: Learning material for CMU10-714: Deep Learning System](https://github.com/PKUFlyingPig/CMU10-714)
 
 ## License
 
