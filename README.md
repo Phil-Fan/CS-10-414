@@ -13,9 +13,10 @@ This repository contains my coursework and learning materials for the Deep Learn
 - Convolutional and recurrent neural networks
 - Model deployment and performance optimization
 
+
 ## Structure
 
-```
+```shell
 cs-10-414/
 ├── hw0/    # Introduction: Simple ML with NumPy
 ├── hw1/    # Automatic Differentiation
@@ -23,6 +24,43 @@ cs-10-414/
 ├── hw3/    # NDArray: CPU and GPU Backends
 └── hw4/    # CNNs and Image Classification
 ```
+
+## Schedule
+
+### Lectures
+
+- [ ] Lecture 1: Introduction / Logistics
+- [ ] Lecture 2: ML Refresher / Softmax Regression
+- [ ] Lecture 3: Manual Neural Networks / Backprop
+- [ ] Lecture 4: Automatic Differentiation
+- [ ] Lecture 5: Automatic Differentiation Implementation
+- [ ] Lecture 6: Optimization
+- [ ] Lecture 7: Neural Network Library Abstractions
+- [ ] Lecture 8: Normalization, Dropout, + Implementation
+- [ ] Lecture 9: NN Library Implementation
+- [ ] Lecture 10: Convolutional Networks
+- [ ] Lecture 11: Hardware Acceleration for Linear Algebra
+- [ ] Lecture 12: Hardware Acceleration + GPUs
+- [ ] Lecture 13: Hardware Acceleration Implementation
+- [ ] Lecture 14: Convoluations Network Implementation
+- [ ] Lecture 15: Sequence Modeling + RNNs
+- [ ] Lecture 16: Sequence Modeling Implementation
+- [ ] Lecture 17: Transformers and Autoregressive Models
+- [ ] Lecture 18: Transformers Implementation
+- [ ] Lecture 19: Training Large Models
+- [ ] Lecture 20: Generative Models
+- [ ] Lecture 21: Generative Models Implementation
+- [ ] Lecture 22: Customize Pretrained Models
+- [ ] Lecture 23: Model Deployment
+- [ ] Lecture 25: Future Directions / Q&A
+
+### Homework
+
+- [ ] Homework 0: Introduction (Simple ML with NumPy)
+- [ ] Homework 1: Automatic Differentiation
+- [ ] Homework 2: Neural Networks and Optimization
+- [ ] Homework 3: NDArray (CPU and GPU Backends)
+- [ ] Homework 4: CNNs and Image Classification
 
 ## References
 
